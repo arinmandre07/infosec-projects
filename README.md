@@ -9,8 +9,7 @@ This repository is organized into categories that reflect both structured, found
 ## 📁 Project Categories
 
 ### 🎓 [Foundational Projects](foundational-projects/)
-A structured collection of projects developed during a formal certification program. These focus on applying essential cybersecurity concepts and tools in simulated environments.
-
+A structured collection of projects developed during the **Google Cybersecurity Professional Certificate** training. These projects focus on core security concepts and hands-on labs designed to simulate real-world scenarios.
 <details>
 <summary>Click to view included projects</summary>
 
