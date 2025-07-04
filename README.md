@@ -1,6 +1,6 @@
 # infosec-projects
 
-Welcome! This repository contains a collection of cybersecurity projects developed during my training program. Each project focuses on a critical area of infosec—from network analysis to scripting and professional documentation.
+Welcome! This repository contains a collection of cybersecurity projects developed during my training program and self-learning. Each project focuses on a critical area of infosec, from network analysis to scripting and professional documentation.
 
 ### Projects
 
