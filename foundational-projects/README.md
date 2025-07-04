@@ -39,6 +39,6 @@ A cybersecurity-focused resume that outlines technical skills, certifications, p
 
 ## 📌 About This Repository
 
-The `infosec-projects` repository represents a foundational stage in my development as a cybersecurity professional. It showcases my ability to apply theoretical concepts in practical scenarios and serves as a structured portfolio of work completed through formal training.
+The `foundational-projects` represents a foundational stage in my development as a cybersecurity professional. It showcases my ability to apply theoretical concepts in practical scenarios and serves as a structured portfolio of work completed through formal training.
 
 As I continue to grow in the field, this repository will serve as a baseline reference for applied security skills and professional documentation.
