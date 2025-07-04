@@ -1,2 +1,8 @@
 # infosec-projects
-A comprehensive portfolio showcasing hands-on cybersecurity projects completed during the certificate programs &amp; Self Learning. Includes real-world simulations in areas such as network analysis, incident handling, Linux security, SQL filtering, vulnerability assessment, and professional development.
+
+Welcome! This repository contains a collection of cybersecurity projects developed during my training program. Each project focuses on a critical area of infosec—from network analysis to scripting and professional documentation.
+
+### Projects
+
+**[Professional Statement](01_professional-statement/)** – Personal statement showcasing my goals and values as a cybersecurity professional.
+**[Security Audit](02_security-audit/)** – Evaluation of system security and recommendations for improvement.
