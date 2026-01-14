@@ -1,8 +1,8 @@
 # 🛡️ Projects Portfolio
 
-Welcome to my professional project portfolio. This repository serves as a centralized index of my hands-on work across cybersecurity, software development, and applied engineering domains.
+Welcome to my professional project portfolio. This repository serves as a centralized showcase of my hands-on work across cybersecurity, software development, and applied engineering disciplines.
 
-The projects presented here demonstrate my ability to translate theoretical knowledge into practical implementations, analyze real-world scenarios, document technical findings clearly, and continuously improve my technical skillset. This portfolio is structured to highlight both foundational learning and independent project work, reflecting my readiness for real-world technical roles.
+The projects presented here demonstrate my ability to translate theoretical knowledge into practical solutions, analyze real-world technical challenges, communicate findings clearly, and continuously strengthen my technical skill set. The portfolio balances structured foundational learning with independent project work, showcasing strong practical readiness for professional technical environments.
 
 ---
 
