@@ -1,6 +1,5 @@
 # 🐍 Python Algorithm – Automated File Update
 
-> 📌 **Cybersecurity Portfolio Project**  
 > Automating secure access list management using Python file handling and data processing.
 
 ---
