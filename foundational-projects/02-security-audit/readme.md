@@ -1,7 +1,6 @@
 # 🔐 Internal Security Audit – Botium Toys (NIST CSF)
-
-> 📌 **Cybersecurity Portfolio Project**  
-> Internal IT Security Audit based on the NIST Cybersecurity Framework (NIST CSF)
+  
+> Internal IT Security Audit based on the NIST Cybersecurity Framework (NIST CSF)(02-security-audit/)
 
 ---
 
