@@ -1,46 +1,107 @@
-# 🛡️ Projects
+# 🛡️ Projects Portfolio
 
-Welcome to my project portfolio. This repository showcases a collection of hands-on, practical projects developed as part of my professional learning journey in information security. Each project is designed to demonstrate applied skills across core cybersecurity domains, including auditing, scripting, network analysis, log management, and incident response.
+Welcome to my professional project portfolio. This repository serves as a centralized index of my hands-on work across cybersecurity, software development, and applied engineering domains.
 
-This repository is organized into categories that reflect both structured, foundational training and self-directed exploration of real-world security scenarios.
+The projects presented here demonstrate my ability to translate theoretical knowledge into practical implementations, analyze real-world scenarios, document technical findings clearly, and continuously improve my technical skillset. This portfolio is structured to highlight both foundational learning and independent project work, reflecting my readiness for real-world technical roles.
 
 ---
 
-## 📁 Project Categories
+## 📁 Portfolio Structure
 
-### 🎓 [Foundational Projects](foundational-projects/)
-A structured collection of projects developed during the **Google Cybersecurity Professional Certificate** training. These projects focus on core security concepts and hands-on labs designed to simulate real-world scenarios.
+This repository is organized into clearly defined categories to help reviewers quickly navigate my work and assess relevant skills.
+
+---
+
+### 🎓 [Security – Foundational Projects](foundational-projects/)
+A curated collection of hands-on projects developed during structured cybersecurity training programs. These projects demonstrate core security competencies, operational understanding, and documentation standards commonly expected in entry-level and junior cybersecurity roles.
+
 <details>
-<summary>Click to view included projects</summary>
+<summary>View included projects</summary>
 
-- **01. Professional Statement** – Reflective document outlining my goals and values as a cybersecurity professional.  
-- **02. Security Audit** – Simulated audit of a small business IT system.  
-- **03. Network Analysis** – Network topology and security posture evaluation.  
-- **04. Linux File Permissions** – File access control using Linux commands.  
-- **05. SQL Filtering** – Secure data extraction using SQL queries.  
-- **06. Vulnerability Scan** – Identification and documentation of system weaknesses.  
-- **07. Incident Handling Journal** – Documentation of a simulated security incident response.  
-- **08. Log Parsing & File Analysis** – Python-based log analysis from raw text data.  
-- **09. Resume** – Cybersecurity-focused resume with technical skills and experience.
+- **Professional Statement** – Career objectives and professional values in cybersecurity  
+- **Security Audit** – Simulated audit of organizational security controls  
+- **Network Analysis** – Network structure evaluation and security posture analysis  
+- **Linux File Permissions** – Access control and permissions management  
+- **SQL Filtering** – Secure data retrieval and filtering using SQL  
+- **Vulnerability Assessment** – Identification and remediation of system risks  
+- **Incident Handler’s Journal** – Structured incident response documentation  
+- **Log Parsing & File Analysis** – Python-based data parsing and automation  
+- **Technical Resume** – Cybersecurity-focused resume  
 
 </details>
 
 ---
 
-## 📌 About This Repository
+### 💻 [Development Projects](development-projects/)
+Projects focused on software development, scripting, automation, and problem-solving. These projects demonstrate programming proficiency, system design thinking, and the ability to build maintainable solutions.
 
-The `infosec-projects` repository is a living portfolio intended to document my growth and practical capabilities in the cybersecurity field. It reflects not only structured academic work but also the evolution of my technical skills as I progress toward a career in information security.
-
-As the portfolio expands, it will include advanced, independent projects demonstrating deeper analysis, scripting, system hardening, and threat detection.
+Examples may include:
+- Backend or full-stack applications  
+- Automation scripts and tooling  
+- Data processing utilities  
+- APIs and integrations  
+- Performance optimization projects  
 
 ---
 
-## 🧠 Topics Covered So Far
+---
 
-- System Security Auditing  
-- Linux Permissions & Access Control  
-- SQL for Security Use Cases  
-- Incident Response & Journaling  
-- Log Parsing & Automation  
-- Resume Development  
-- Network Structure & Evaluation  
+### 🚀 [Mainstream / Applied Projects](mainstream-projects/)
+Independent projects designed to simulate real-world production environments and complex workflows. These projects emphasize scalability, performance, security, and system integration.
+
+Examples may include:
+- End-to-end system implementations  
+- Cloud-based deployments  
+- Security automation pipelines  
+- Monitoring and observability systems  
+- Real-world datasets and analytics  
+
+---
+
+---
+
+### 📜 [Certifications](certifications/)
+A dedicated repository for professional certifications, transcripts, and learning credentials. This section supports my technical credibility and continuous learning commitment.
+
+May include:
+- Certification summaries  
+- Completion certificates  
+- Skill mappings  
+- Learning reflections  
+
+---
+
+---
+
+## 🎯 Portfolio Objectives
+
+This portfolio is designed to demonstrate:
+
+- Practical problem-solving and technical execution  
+- Security-first thinking and risk awareness  
+- Clean documentation and communication skills  
+- Ability to work across multiple technical domains  
+- Continuous learning and skill progression  
+- Readiness for real-world engineering and security roles  
+
+---
+
+## 🧠 Core Skills Represented
+
+- Cybersecurity Fundamentals  
+- Network Analysis and Hardening  
+- Linux System Administration  
+- SQL and Data Analysis  
+- Incident Response and Documentation  
+- Python Automation  
+- Software Development Principles  
+- Technical Writing and Reporting  
+
+---
+
+## 📎 Professional Statement
+
+This portfolio showcases my dedication to developing production-ready technical skills and upholding high standards of quality, security, and documentation. Each project demonstrates measurable learning outcomes and practical application aligned with industry expectations.
+
+---
+
