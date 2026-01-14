@@ -1,4 +1,4 @@
-# 🛡️ Infosec Projects
+# 🛡️ Infosec Foundational Projects
 
 This repository contains a curated collection of foundational cybersecurity (infosec) projects developed during my structured training and certification journey. Each project reflects hands-on experience with core security concepts, practical tools, and real-world problem-solving.
 
