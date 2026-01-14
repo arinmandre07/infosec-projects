@@ -13,7 +13,7 @@ This repository is organized into clearly defined categories to help reviewers q
 ---
 
 ### 🎓 [Security – Foundational Projects](foundational-projects/)
-A curated collection of hands-on projects developed during structured cybersecurity training programs. These projects demonstrate core security competencies, operational understanding, and documentation standards commonly expected in entry-level and junior cybersecurity roles.
+A curated collection of hands-on projects developed during structured cybersecurity training programs. These projects demonstrate core security competencies, operational understanding, and documentation standards.
 
 <details>
 <summary>View included projects</summary>
