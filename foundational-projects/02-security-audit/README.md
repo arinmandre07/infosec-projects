@@ -6,7 +6,7 @@
 
 ## 📖 Project Overview
 
-This repository contains an **internal IT security audit**() conducted for a fictional organization, **Botium Toys**, as part of a cybersecurity portfolio activity.
+This repository contains an **internal IT security audit** conducted for a fictional organization, **Botium Toys**, as part of a cybersecurity portfolio activity.
 
 The objective of this project is to assess the organization’s **current security posture**, identify potential **risks and compliance gaps**, and provide **actionable security recommendations** using the **NIST Cybersecurity Framework (NIST CSF)**.
 
