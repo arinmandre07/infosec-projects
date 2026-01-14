@@ -1,6 +1,6 @@
 # 🗄️ Applying Filters to SQL Queries
 
-> 📌 **Portfolio Project**  
+
 > Demonstrating how to use SQL filters to retrieve meaningful data using `WHERE`, `LIKE`, `AND`, `OR`, `NOT`, and date/time filtering.
 
 ---
