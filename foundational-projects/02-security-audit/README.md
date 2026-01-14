@@ -6,7 +6,7 @@
 
 ## 📖 Project Overview
 
-This repository contains an **internal IT security audit** conducted for a fictional organization, **Botium Toys**, as part of a cybersecurity portfolio activity.
+This repository contains an **internal IT security audit**() conducted for a fictional organization, **Botium Toys**, as part of a cybersecurity portfolio activity.
 
 The objective of this project is to assess the organization’s **current security posture**, identify potential **risks and compliance gaps**, and provide **actionable security recommendations** using the **NIST Cybersecurity Framework (NIST CSF)**.
 
@@ -66,12 +66,9 @@ The checklist includes:
 
 | File Name | Description |
 |------------|-------------|
-| `Controls_Compliance_Checklist.pdf` | Completed checklist |
-| `Risk_Assessment.pdf` | Risk analysis summary |
-| `Audit_Notes.md` | Supporting notes and observations |
+| `Botium Toys - Scope, Goals, and Risk Assessment Report.pdf` | Risk Assessment Summary |
+| `Controls and compliance checklist.pdf` | Completed Checklist |
 | `README.md` | Project documentation |
-
-> ✏️ *Update filenames based on what you upload.*
 
 ---
 
