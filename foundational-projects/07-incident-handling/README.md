@@ -1,4 +1,4 @@
-# 📓 Incident Handler’s Journal – Portfolio Project
+# 📓 Incident Handler’s Journal 
 
 > Documenting incident investigations, tool usage, and professional reflections.
 
