@@ -32,7 +32,7 @@ A curated collection of hands-on projects developed during structured cybersecur
 
 ---
 
-### 💻 [Development Projects](development-projects/)
+### 💻 [Development Projects](dev-projkts/)
 Projects focused on software development, scripting, automation, and problem-solving. These projects demonstrate programming proficiency, system design thinking, and the ability to build maintainable solutions.
 
 Examples may include:
