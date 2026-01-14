@@ -29,7 +29,7 @@ Documentation of vulnerabilities identified in a simulated small business setup.
 ### 7. [Incident Handling Journal](07-incident-handling/)
 A detailed incident response journal that documents the timeline, decisions, and remediation strategies followed during a simulated security incident.
 
-### 8. [Automating Tasks with Python](08-log-parsing/)
+### 8. [Automating Tasks with Python](08-AutomateSecurityTasksWithPython/)
 A Python-based solution to import, parse, and analyze raw log data. Helps identify patterns and extract security-relevant information from a structured text file.
 
 ### 9. [Resume](09-resume/)
