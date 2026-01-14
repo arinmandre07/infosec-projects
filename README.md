@@ -1,6 +1,6 @@
-# 🛡️ Infosec Projects
+# 🛡️ Projects
 
-Welcome to my cybersecurity project portfolio. This repository showcases a collection of hands-on, practical projects developed as part of my professional learning journey in information security. Each project is designed to demonstrate applied skills across core cybersecurity domains, including auditing, scripting, network analysis, log management, and incident response.
+Welcome to my project portfolio. This repository showcases a collection of hands-on, practical projects developed as part of my professional learning journey in information security. Each project is designed to demonstrate applied skills across core cybersecurity domains, including auditing, scripting, network analysis, log management, and incident response.
 
 This repository is organized into categories that reflect both structured, foundational training and self-directed exploration of real-world security scenarios.
 
