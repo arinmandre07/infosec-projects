@@ -1,6 +1,5 @@
 # 🗄️ Apply Filters to SQL Queries
 
-> 📌 **Cybersecurity Portfolio Project**  
 > Demonstrating the use of SQL filtering techniques to investigate security events and manage employee systems.
 
 ---
