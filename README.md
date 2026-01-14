@@ -25,7 +25,7 @@ A curated collection of hands-on projects developed during structured cybersecur
 - **SQL Filtering** – Secure data retrieval and filtering using SQL  
 - **Vulnerability Assessment** – Identification and remediation of system risks  
 - **Incident Handler’s Journal** – Structured incident response documentation  
-- **Log Parsing & File Analysis** – Python-based data parsing and automation  
+- **Automating Tasks with Python** – Python-based data parsing and automation  
 - **Technical Resume** – Cybersecurity-focused resume  
 
 </details>
