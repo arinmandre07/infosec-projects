@@ -1,4 +1,4 @@
-# 🗄️ Apply Filters to SQL Queries
+# 🗄️ Applying Filters to SQL Queries
 
 > Demonstrating the use of SQL filtering techniques to investigate security events and manage employee systems.
 
